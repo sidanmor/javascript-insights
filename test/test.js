@@ -1,6 +1,6 @@
 // TODO - write real tests :)
 
-var jsInsights = require('../src/index');
+var jsInsights = require('../index');
 
 // const path = require('path');
 //

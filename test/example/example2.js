@@ -1,4 +1,4 @@
-var jsInsights = require('../../src/index');
+var jsInsights = require('../../index');
 
 jsInsights.setObjectName(jsInsights, 'jsInsights');
 jsInsights.start();
