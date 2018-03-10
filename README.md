@@ -20,7 +20,24 @@ arr.push(2);
 var res = javascriptInsights.getInsights();
 
 console.log(JSON.stringify(res, null, '\t'));
+
+// the output:
+//{
+//        "overrider": {
+//                "Array": {
+//                        "push": 2
+//                },
+//               "javascriptInsights": {
+//                        "getInsights": 1
+//                },
+//                "JSON": {
+//                        "stringify": 1
+//                }
+//        }
+//}
+
 ```
+
 ## API
 
 ##### start([modules])
