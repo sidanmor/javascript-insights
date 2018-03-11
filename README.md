@@ -42,7 +42,7 @@ console.log(JSON.stringify(res, null, '\t'));
 
 ##### start([modules])
 
-Accepts array of modules to overrid.
+Accepts array of modules to override.
 
 The default are all the existing modules in Node.js, include your required modules.
 
