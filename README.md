@@ -1,5 +1,7 @@
 # javascript-insights
-Javascript Insights will try to override all Javascript pure functions and properties that it can and count their usage
+Javascript Insights will try to override all Javascript pure functions and properties that it can and count their usage. 
+
+##### :construction: It is still under construction, more powerful features to come... :construction:
 
 ## Installation
 ``` sh
@@ -56,7 +58,7 @@ Set the module name for modules that it can't decode.
 
 ## Contact info
 
-If you encounter any issues or you have any questions, you are more then welcome to contact me sidanmor@gmail.com
+If you encounter any issues or you have any questions, you are more then welcome to contact me sidanmor@gmail.com [npm](https://www.npmjs.com/package/javascript-insights)
 
 ## License
 
