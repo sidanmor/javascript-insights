@@ -1,6 +1,6 @@
 {
   "name": "javascript-insights",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Javascript Insights will try to override all Javascript pure functions and properties that it can and count their usage",
   "main": "index.js",
   "scripts": {
