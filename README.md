@@ -1,6 +1,8 @@
 # javascript-insights
 Javascript Insights will try to override all Javascript pure functions and properties that it can and count their usage
 
+##### :construction: It is still under construction, more powerful features to come... :construction:
+
 ## Installation
 ``` sh
 npm i javascript-insights
