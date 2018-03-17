@@ -5,7 +5,7 @@ Javascript Insights will try to override all Javascript pure functions and prope
 
 ## Installation
 
-``` sh
+```sh
 npm i javascript-insights
 ```
 ## Usage
@@ -58,7 +58,8 @@ Set the module name for modules that it can't decode.
 
 ## Contact info
 
-If you encounter any issues or you have any questions, you are more then welcome to contact me sidanmor@gmail.com 
+If you encounter any issues or you have any questions, you are more then welcome to contact me sidanmor@gmail.com
+
 [npm](https://www.npmjs.com/package/javascript-insights)
 
 ## License
